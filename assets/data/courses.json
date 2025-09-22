@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Basic Computer Literacy",
+    "provider": "Skill Center (Sample)",
+    "duration": "6 weeks",
+    "summary": "Foundational digital skills: typing, MS Office, email, internet safety."
+  },
+  {
+    "title": "Retail Sales Associate",
+    "provider": "Training Partner (Sample)",
+    "duration": "8 weeks",
+    "summary": "Customer handling, POS, merchandising, and basic inventory management."
+  },
+  {
+    "title": "Web Development Basics",
+    "provider": "Community Center (Sample)",
+    "duration": "10 weeks",
+    "summary": "HTML, CSS, JS fundamentals for entry-level web roles."
+  }
+]

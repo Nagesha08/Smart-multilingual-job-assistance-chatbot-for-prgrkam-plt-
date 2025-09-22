@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1001",
+    "title": "Clerk",
+    "company": "Punjab Govt (Sample)",
+    "location": "Chandigarh",
+    "type": "Full-time",
+    "education": "Graduate",
+    "salary": "₹25,500 / month",
+    "summary": "Assist with office administration, record keeping, and public-facing tasks."
+  },
+  {
+    "id": "1002",
+    "title": "Data Entry Operator",
+    "company": "District Office (Sample)",
+    "location": "Ludhiana",
+    "type": "Contract",
+    "education": "12th",
+    "salary": "₹18,000 / month",
+    "summary": "Enter and maintain data records with accuracy; basic computer skills required."
+  },
+  {
+    "id": "1003",
+    "title": "Apprentice (Electrician)",
+    "company": "PSPCL (Sample)",
+    "location": "Amritsar",
+    "type": "Internship",
+    "education": "Diploma",
+    "salary": "Stipend",
+    "summary": "On-the-job training under qualified supervisors as per apprenticeship norms."
+  }
+]

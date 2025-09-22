@@ -1,0 +1,9 @@
+:root {
+  --primary: #0d6efd;
+  --gradient-start: #0d6efd;
+  --gradient-end: #6610f2;
+}
+.bg-gradient-primary {
+  background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+}
+.card .stretched-link::after { position: static; }
